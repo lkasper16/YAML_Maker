@@ -1,0 +1,133 @@
+#Data 19, 20
+independent_variables:
+- header: {name: '$p_T$'}
+  values:
+  - {low: 1.5, high: 1.9}
+  - {low: 1.9, high: 2.3}
+  - {low: 2.3, high: 2.7}
+  - {low: 2.7, high: 3.3}
+  - {low: 3.3, high: 4.1}
+  - {low: 4.1, high: 5}
+  - {low: 5, high: 6}
+  - {low: 6, high: 8}
+dependent_variables:
+- header:
+    name: $1/(N_{ev}2\pi p_{T})d^{2}N/dydp_{T}$
+    units: $GeV^{-2}$
+  qualifiers:
+  - name: RE
+    value: P P --> Omega- + anti-Omega+ X
+  - name: SQRT(S)/NUCLEON
+    units: TeV
+    value: 5.02
+  - name: RAPIDITY YCM
+    value: -1.8 TO 1.8
+  values:
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.0000004
+    - label: Systematic uncertainty
+      symerror: 0.0000055
+    value: 0.0000388
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.0000006
+    - label: Systematic uncertainty
+      symerror: 0.0000029
+    value: 0.0000207
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.0000004
+    - label: Systematic uncertainty
+      symerror: 0.0000015
+    value: 0.0000103
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.00000015
+    - label: Systematic uncertainty
+      symerror: 0.00000061
+    value: 0.00000425
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.00000006
+    - label: Systematic uncertainty
+      symerror: 0.00000020
+    value: 0.00000137
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.000000021
+    - label: Systematic uncertainty
+      symerror: 0.000000056
+    value: 0.000000395
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.000000001
+    - label: Systematic uncertainty
+      symerror: 0.000000015
+    value: 0.000000105
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.0000000002
+    - label: Systematic uncertainty
+      symerror: 0.0000000024
+    value: 0.0000000171
+- header:
+    name: $1/(N_{ev}2\pi p_{T})d^{2}N/dydp_{T}$
+    units: $GeV^{-2}$
+  qualifiers:
+  - name: RE
+    value: P Pb --> Omega- + anti-Omega+ X
+  - name: SQRT(S)/NUCLEON
+    units: TeV
+    value: 5.02
+  - name: RAPIDITY YCM
+    value: -1.8 TO 1.8
+  values:
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.000018
+    - label: Systematic uncertainty
+      symerror: 0.000048
+    value: 0.000315
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.000009
+    - label: Systematic uncertainty
+      symerror: 0.000026
+    value: 0.000170
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.0000050
+    - label: Systematic uncertainty
+      symerror: 0.0000147
+    value: 0.0000971
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.00000022
+    - label: Systematic uncertainty
+      symerror: 0.00000746
+    value: 0.0000494
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.0000008
+    - label: Systematic uncertainty
+      symerror: 0.0000028
+    value: 0.0000185
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.00000032
+    - label: Systematic uncertainty
+      symerror: 0.00000082
+    value: 0.00000543
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.00000012
+    - label: Systematic uncertainty
+      symerror: 0.00000020
+    value: 0.00000133
+  - errors:
+    - label: Statistical uncertainty
+      symerror: 0.000000029
+    - label: Systematic uncertainty
+      symerror: 0.000000030
+    value: 0.000000198
