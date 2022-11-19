@@ -1,0 +1,153 @@
+dependent_variables:
+- header: {name: RpPb(measurement)}
+  qualifiers:
+  - {name: R, value: '0.3'}
+  - {name: RE, value: 'P PB --> JET(S) X, P P --> JET(S) X'}
+  - {name: SQRT(S)/NUCLEON, units: GEV, value: '5020.0'}
+  - {name: '$\eta_{CM}$', value: 1.0 TO 1.5}
+  values:
+  - errors:
+    - {label: stat, symerror: '0.0071'}
+    - {label: sys, symerror: '0.1610'}
+    value: '1.2007'
+  - errors:
+    - {label: stat, symerror: '0.0060'}
+    - {label: sys, symerror: '0.1585'}
+    value: '1.2235'
+  - errors:
+    - {label: stat, symerror: '0.0052'}
+    - {label: sys, symerror: '0.1530'}
+    value: '1.2119'
+  - errors:
+    - {label: stat, symerror: '0.0045'}
+    - {label: sys, symerror: '0.1433'}
+    value: '1.1600'
+  - errors:
+    - {label: stat, symerror: '0.0044'}
+    - {label: sys, symerror: '0.1349'}
+    value: '1.1116'
+  - errors:
+    - {label: stat, symerror: '0.0058'}
+    - {label: sys, symerror: '0.1383'}
+    value: '1.1537'
+  - errors:
+    - {label: stat, symerror: '0.0084'}
+    - {label: sys, symerror: '0.1396'}
+    value: '1.1736'
+  - errors:
+    - {label: stat, symerror: '0.0116'}
+    - {label: sys, symerror: '0.1365'}
+    value: '1.1500'
+  - errors:
+    - {label: stat, symerror: '0.0170'}
+    - {label: sys, symerror: '0.1441'}
+    value: '1.2143'
+  - errors:
+    - {label: stat, symerror: '0.0236'}
+    - {label: sys, symerror: '0.1423'}
+    value: '1.1977'
+  - errors:
+    - {label: stat, symerror: '0.0310'}
+    - {label: sys, symerror: '0.1355'}
+    value: '1.1367'
+  - errors:
+    - {label: stat, symerror: '0.0408'}
+    - {label: sys, symerror: '0.1322'}
+    value: '1.1046'
+  - errors:
+    - {label: stat, symerror: '0.0603'}
+    - {label: sys, symerror: '0.1440'}
+    value: '1.1947'
+  - errors:
+    - {label: stat, symerror: '0.0825'}
+    - {label: sys, symerror: '0.1456'}
+    value: '1.2045'
+  - errors:
+    - {label: stat, symerror: '0.0895'}
+    - {label: sys, symerror: '0.1136'}
+    value: '0.9398'
+- header: {name: RpPb(prediction)}
+  qualifiers:
+  - {name: R, value: '0.3'}
+  - {name: RE, value: 'P PB --> JET(S) X, P P --> JET(S) X'}
+  - {name: SQRT(S)/NUCLEON, units: GEV, value: '5020.0'}
+  - {name: '$\eta_{CM}$', value: 1.0 TO 1.5}
+  values:
+  - errors:
+    - asymerror: {minus: '-0.0155', plus: '0.0257'}
+      label: sys
+    value: '1.0300'
+  - errors:
+    - asymerror: {minus: '-0.0184', plus: '0.0224'}
+      label: sys
+    value: '1.0200'
+  - errors:
+    - asymerror: {minus: '-0.0177', plus: '0.0250'}
+      label: sys
+    value: '1.0400'
+  - errors:
+    - asymerror: {minus: '-0.0208', plus: '0.0239'}
+      label: sys
+    value: '1.0400'
+  - errors:
+    - asymerror: {minus: '-0.0221', plus: '0.0262'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0199', plus: '0.0294'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0252', plus: '0.0305'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0284', plus: '0.0305'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0329', plus: '0.0297'}
+      label: sys
+    value: '1.0600'
+  - errors:
+    - asymerror: {minus: '-0.0326', plus: '0.0305'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0347', plus: '0.0305'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0273', plus: '0.0347'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0239', plus: '0.0354'}
+      label: sys
+    value: '1.0400'
+  - errors:
+    - asymerror: {minus: '-0.0250', plus: '0.0302'}
+      label: sys
+    value: '1.0400'
+  - errors:
+    - asymerror: {minus: '-0.0257', plus: '0.0278'}
+      label: sys
+    value: '1.0300'
+independent_variables:
+- header: {name: '$p_{T}$ [GeV/c]'}
+  values:
+  - {high: 64.0, low: 56.0}
+  - {high: 74.0, low: 64.0}
+  - {high: 84.0, low: 74.0}
+  - {high: 97.0, low: 84.0}
+  - {high: 114.0, low: 97.0}
+  - {high: 133.0, low: 114.0}
+  - {high: 153.0, low: 133.0}
+  - {high: 174.0, low: 153.0}
+  - {high: 196.0, low: 174.0}
+  - {high: 220.0, low: 196.0}
+  - {high: 245.0, low: 220.0}
+  - {high: 272.0, low: 245.0}
+  - {high: 300.0, low: 272.0}
+  - {high: 330.0, low: 300.0}
+  - {high: 362.0, low: 330.0}

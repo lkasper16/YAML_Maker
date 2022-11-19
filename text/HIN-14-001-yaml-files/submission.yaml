@@ -1,0 +1,424 @@
+additional_resources: []
+comment: "Inclusive jet production in pPb collisions at a nucleon\u2013nucleon (NN)
+  center-of-mass energy of $\\sqrt{s_{NN}} \u200B=$ 5.02 TeV is studied with the CMS
+  detector at the LHC. A data sample corresponding to an integrated luminosity of
+  $30.1 nb^{-1}$ is analyzed. The jet transverse momentum spectra are studied in seven
+  pseudorapidity intervals covering the range $\u22122.0 < \u03B7_{CM} < 1.5$ in the
+  NN center-of-mass frame. The jet production yields at forward and backward pseudorapidity
+  are compared and no significant asymmetry about $\u03B7_{CM} =$ 0 is observed in
+  the measured kinematic range. The measurements in the pPb system are compared to
+  reference jet spectra obtained by extrapolation from previous measurements in pp
+  collisions at $\\sqrt{s} \u200B=$ 7 TeV. In all pseudorapidity ranges, nuclear modifications
+  in inclusive jet production are found to be small, as predicted by next-to-leading
+  order perturbative QCD calculations that incorporate nuclear effects in the parton
+  distribution functions."
+record_ids:
+- {id: 1414605, type: inspire}
+- {id: 2119961, type: cds}
+---
+additional_resources: []
+data_file: data1.yaml
+description: Jet spectra at $\sqrt{s_{NN}} =$ 5.02 TeV extrapolated from previous
+  pp measurement at $\sqrt{s} =$ 7 TeV in different $\eta$ ranges.
+keywords:
+- name: reactions
+  values: [P P --> JET(S) X]
+- name: observables
+  values: ['$d^{2}\sigma$ / $dp_{T}d\eta$']
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 3
+name: Table 1
+---
+additional_resources: []
+data_file: data2.yaml
+description: Jet spectra at $\sqrt{s_{NN}} =$ 5.02 TeV extrapolated from previous
+  pp measurement at $\sqrt{s} =$ 7 TeV in different $\eta$ ranges.
+keywords:
+- name: reactions
+  values: [P P --> JET(S) X]
+- name: observables
+  values: ['$d^{2}\sigma$ / $dp_{T}d\eta$']
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 3
+name: Table 2
+---
+additional_resources: []
+data_file: data3.yaml
+description: Jet spectra at $\sqrt{s_{NN}} =$ 5.02 TeV extrapolated from previous
+  pp measurement at $\sqrt{s} =$ 7 TeV in different $\eta$ ranges.
+keywords:
+- name: reactions
+  values: [P P --> JET(S) X]
+- name: observables
+  values: ['$d^{2}\sigma$ / $dp_{T}d\eta$']
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 3
+name: Table 3
+---
+additional_resources: []
+data_file: data4.yaml
+description: Jet spectra at $\sqrt{s_{NN}} =$ 5.02 TeV extrapolated from previous
+  pp measurement at $\sqrt{s} =$ 7 TeV in different $\eta$ ranges.
+keywords:
+- name: reactions
+  values: [P P --> JET(S) X]
+- name: observables
+  values: ['$d^{2}\sigma$ / $dp_{T}d\eta$']
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 3
+name: Table 4
+---
+additional_resources: []
+data_file: data5.yaml
+description: Jet spectra in pPb collisions at $\sqrt{s_{NN}} =$ 5.02 TeV in different
+  $\eta_{CM}$ ranges.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: ['$d^{2}\sigma$ / $dp_{T}d\eta$']
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 4
+name: Table 5
+---
+additional_resources: []
+data_file: data6.yaml
+description: Jet spectra in pPb collisions at $\sqrt{s_{NN}} =$ 5.02 TeV in different
+  $\eta_{CM}$ ranges.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: ['$d^{2}\sigma$ / $dp_{T}d\eta$']
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 4
+name: Table 6
+---
+additional_resources: []
+data_file: data7.yaml
+description: Jet spectra in pPb collisions at $\sqrt{s_{NN}} =$ 5.02 TeV in different
+  $\eta_{CM}$ ranges.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: ['$d^{2}\sigma$ / $dp_{T}d\eta$']
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 4
+name: Table 7
+---
+additional_resources: []
+data_file: data8.yaml
+description: Jet spectra in pPb collisions at $\sqrt{s_{NN}} =$ 5.02 TeV in different
+  $\eta_{CM}$ ranges.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: ['$d^{2}\sigma$ / $dp_{T}d\eta$']
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 4
+name: Table 8
+---
+additional_resources: []
+data_file: data9.yaml
+description: Jet spectra in pPb collisions at $\sqrt{s_{NN}} =$ 5.02 TeV in different
+  $\eta_{CM}$ ranges.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: ['$d^{2}\sigma$ / $dp_{T}d\eta$']
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 4
+name: Table 9
+---
+additional_resources: []
+data_file: data10.yaml
+description: Jet spectra in pPb collisions at $\sqrt{s_{NN}} =$ 5.02 TeV in different
+  $\eta_{CM}$ ranges.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: ['$d^{2}\sigma$ / $dp_{T}d\eta$']
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 4
+name: Table 10
+---
+additional_resources: []
+data_file: data11.yaml
+description: Jet spectra in pPb collisions at $\sqrt{s_{NN}} =$ 5.02 TeV in different
+  $\eta_{CM}$ ranges.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: ['$d^{2}\sigma$ / $dp_{T}d\eta$']
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 4
+name: Table 11
+---
+additional_resources: []
+data_file: data12.yaml
+description: Inclusive jet asymmetry as a function of jet pt in pPb collisions at
+  $\sqrt{s_{NN}} =$ 5.02 TeV.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: [YASYM]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 6
+name: Table 12
+---
+additional_resources: []
+data_file: data13.yaml
+description: Inclusive jet cross section in pPb collisions at $\sqrt{s_{NN}} =$ 5.02
+  TeV as a function of jet $p_{T}$ normalized to the production at mid-rapidity.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: [Yield Ratio]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 7a
+name: Table 13
+---
+additional_resources: []
+data_file: data14.yaml
+description: Inclusive jet cross section in pPb collisions at $\sqrt{s_{NN}} =$ 5.02
+  TeV as a function of jet $p_{T}$ normalized to the production at mid-rapidity.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: [Yield Ratio]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 7a
+name: Table 14
+---
+additional_resources: []
+data_file: data15.yaml
+description: Inclusive jet cross section in pPb collisions at $\sqrt{s_{NN}} =$ 5.02
+  TeV as a function of jet $p_{T}$ normalized to the production at mid-rapidity.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: [Yield Ratio]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 7a
+name: Table 15
+---
+additional_resources: []
+data_file: data16.yaml
+description: Inclusive jet cross section in pPb collisions at $\sqrt{s_{NN}} =$ 5.02
+  TeV as a function of jet $p_{T}$ normalized to the production at mid-rapidity.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: [Yield Ratio]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 7a
+name: Table 16
+---
+additional_resources: []
+data_file: data17.yaml
+description: Inclusive jet cross section in pPb collisions at $\sqrt{s_{NN}} =$ 5.02
+  TeV as a function of jet $p_{T}$ normalized to the production at mid-rapidity.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: [Yield Ratio]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 7a
+name: Table 17
+---
+additional_resources: []
+data_file: data18.yaml
+description: Inclusive jet cross section in pPb collisions at $\sqrt{s_{NN}} =$ 5.02
+  TeV as a function of jet $p_{T}$ normalized to the production at mid-rapidity.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: [Yield Ratio]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 7a
+name: Table 18
+---
+additional_resources: []
+data_file: data19.yaml
+description: Inclusive jet cross section in pPb collisions at $\sqrt{s_{NN}} =$ 5.02
+  TeV for different jet $p_{T}$ ranges as a function of jet $\eta$ normalized to the
+  production at mid-rapidity.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X]
+- name: observables
+  values: [Yield Ratio]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 7b
+name: Table 19
+---
+additional_resources: []
+data_file: data20.yaml
+description: Jet RpPb collisions as a function of jet $p_{T}$ in pPb collisions at
+  $\sqrt{s_{NN}} =$ 5.02 TeV, using a pp reference extrapolated from previous measurements
+  at at $\sqrt{s} =$ 7 TeV.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X, P P --> JET(S) X]
+- name: observables
+  values: [RpPb]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 8
+name: Table 20
+---
+additional_resources: []
+data_file: data21.yaml
+description: Jet RpPb collisions as a function of jet $p_{T}$ in pPb collisions at
+  $\sqrt{s_{NN}} =$ 5.02 TeV, using a pp reference extrapolated from previous measurements
+  at at $\sqrt{s} =$ 7 TeV.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X, P P --> JET(S) X]
+- name: observables
+  values: [RpPb]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 8
+name: Table 21
+---
+additional_resources: []
+data_file: data22.yaml
+description: Jet RpPb collisions as a function of jet $p_{T}$ in pPb collisions at
+  $\sqrt{s_{NN}} =$ 5.02 TeV, using a pp reference extrapolated from previous measurements
+  at at $\sqrt{s} =$ 7 TeV.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X, P P --> JET(S) X]
+- name: observables
+  values: [RpPb]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 8
+name: Table 22
+---
+additional_resources: []
+data_file: data23.yaml
+description: Jet RpPb collisions as a function of jet $p_{T}$ in pPb collisions at
+  $\sqrt{s_{NN}} =$ 5.02 TeV, using a pp reference extrapolated from previous measurements
+  at at $\sqrt{s} =$ 7 TeV.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X, P P --> JET(S) X]
+- name: observables
+  values: [RpPb]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 8
+name: Table 23
+---
+additional_resources: []
+data_file: data24.yaml
+description: Jet RpPb collisions as a function of jet $p_{T}$ in pPb collisions at
+  $\sqrt{s_{NN}} =$ 5.02 TeV, using a pp reference extrapolated from previous measurements
+  at at $\sqrt{s} =$ 7 TeV.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X, P P --> JET(S) X]
+- name: observables
+  values: [RpPb]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 8
+name: Table 24
+---
+additional_resources: []
+data_file: data25.yaml
+description: Jet RpPb collisions as a function of jet $p_{T}$ in pPb collisions at
+  $\sqrt{s_{NN}} =$ 5.02 TeV, using a pp reference extrapolated from previous measurements
+  at at $\sqrt{s} =$ 7 TeV.
+keywords:
+- name: reactions
+  values: [P PB --> JET(S) X, P P --> JET(S) X]
+- name: observables
+  values: [RpPb]
+- name: phrases
+  values: []
+- name: cmenergies
+  values: [5020.0]
+location: Data from Figure 8
+name: Table 25

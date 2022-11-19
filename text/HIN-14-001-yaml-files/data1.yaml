@@ -1,0 +1,106 @@
+dependent_variables:
+- header: {name: '$d^{2}\sigma$ / $dp_{T}d\eta$'}
+  qualifiers:
+  - {name: R, value: '0.3'}
+  - {name: RE, value: P P --> JET(S) X}
+  - {name: SQRT(S), units: GEV, value: '5020.0'}
+  - {name: $\lvert\eta\rvert$, value: 0 TO 0.5}
+  values:
+  - errors:
+    - {label: stat, symerror: '0.0209e-05'}
+    - {label: sys, symerror: '0.2763e-05'}
+    value: '3.2876e-05'
+  - errors:
+    - {label: stat, symerror: '0.0142e-05'}
+    - {label: sys, symerror: '0.1379e-05'}
+    value: '1.6724e-05'
+  - errors:
+    - {label: stat, symerror: '0.0951e-06'}
+    - {label: sys, symerror: '0.6806e-06'}
+    value: '8.4094e-06'
+  - errors:
+    - {label: stat, symerror: '0.0634e-06'}
+    - {label: sys, symerror: '0.3386e-06'}
+    value: '4.2732e-06'
+  - errors:
+    - {label: stat, symerror: '0.0097e-06'}
+    - {label: sys, symerror: '0.1510e-06'}
+    value: '1.9555e-06'
+  - errors:
+    - {label: stat, symerror: '0.0532e-07'}
+    - {label: sys, symerror: '0.6302e-07'}
+    value: '8.3658e-07'
+  - errors:
+    - {label: stat, symerror: '0.0328e-07'}
+    - {label: sys, symerror: '0.2845e-07'}
+    value: '3.8633e-07'
+  - errors:
+    - {label: stat, symerror: '0.0217e-07'}
+    - {label: sys, symerror: '0.1310e-07'}
+    value: '1.8078e-07'
+  - errors:
+    - {label: stat, symerror: '0.0370e-08'}
+    - {label: sys, symerror: '0.6249e-08'}
+    value: '8.7106e-08'
+  - errors:
+    - {label: stat, symerror: '0.0256e-08'}
+    - {label: sys, symerror: '0.3237e-08'}
+    value: '4.5183e-08'
+  - errors:
+    - {label: stat, symerror: '0.0166e-08'}
+    - {label: sys, symerror: '0.1692e-08'}
+    value: '2.3456e-08'
+  - errors:
+    - {label: stat, symerror: '0.0115e-08'}
+    - {label: sys, symerror: '0.0923e-08'}
+    value: '1.2538e-08'
+  - errors:
+    - {label: stat, symerror: '0.0775e-09'}
+    - {label: sys, symerror: '0.5212e-09'}
+    value: '6.8457e-09'
+  - errors:
+    - {label: stat, symerror: '0.0131e-09'}
+    - {label: sys, symerror: '0.2871e-09'}
+    value: '3.6928e-09'
+  - errors:
+    - {label: stat, symerror: '0.0099e-09'}
+    - {label: sys, symerror: '0.1560e-09'}
+    value: '2.0066e-09'
+  - errors:
+    - {label: stat, symerror: '0.0032e-09'}
+    - {label: sys, symerror: '0.0874e-09'}
+    value: '1.1240e-09'
+  - errors:
+    - {label: stat, symerror: '0.0224e-10'}
+    - {label: sys, symerror: '0.4929e-10'}
+    value: '6.3414e-10'
+  - errors:
+    - {label: stat, symerror: '0.0176e-10'}
+    - {label: sys, symerror: '0.2769e-10'}
+    value: '3.5625e-10'
+  - errors:
+    - {label: stat, symerror: '0.0113e-10'}
+    - {label: sys, symerror: '0.1556e-10'}
+    value: '2.0014e-10'
+independent_variables:
+- header: {name: '$p_{T}$ [GeV/c]'}
+  values:
+  - {high: 64.0, low: 56.0}
+  - {high: 74.0, low: 64.0}
+  - {high: 84.0, low: 74.0}
+  - {high: 97.0, low: 84.0}
+  - {high: 114.0, low: 97.0}
+  - {high: 133.0, low: 114.0}
+  - {high: 153.0, low: 133.0}
+  - {high: 174.0, low: 153.0}
+  - {high: 196.0, low: 174.0}
+  - {high: 220.0, low: 196.0}
+  - {high: 245.0, low: 220.0}
+  - {high: 272.0, low: 245.0}
+  - {high: 300.0, low: 272.0}
+  - {high: 330.0, low: 300.0}
+  - {high: 362.0, low: 330.0}
+  - {high: 395.0, low: 362.0}
+  - {high: 430.0, low: 395.0}
+  - {high: 468.0, low: 430.0}
+  - {high: 507.0, low: 468.0}

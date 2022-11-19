@@ -1,0 +1,103 @@
+dependent_variables:
+- header: {name: '$(d^{2}\sigma / dp_{T}d\eta)$ / $(d^{2}\sigma / dp_{T}d\eta)$'}
+  qualifiers:
+  - {name: R, value: '0.3'}
+  - {name: RE, value: P PB --> JET(S) X}
+  - {name: SQRT(S)/NUCLEON, units: GEV, value: '5020.0'}
+  - {name: PT, units: GEV, value: 74 TO 84}
+  values:
+  - errors:
+    - {label: stat, symerror: '0.0026'}
+    - {label: sys, symerror: '0.0467'}
+    value: '0.6084'
+  - errors:
+    - {label: stat, symerror: '0.006'}
+    - {label: sys, symerror: '0.064'}
+    value: '0.809'
+  - errors:
+    - {label: stat, symerror: '0.0046'}
+    - {label: sys, symerror: '0.0515'}
+    value: '0.9376'
+  - errors:
+    - {label: stat, symerror: '0.003455'}
+    - {label: sys, symerror: '0.050270'}
+    value: '1.03'
+  - errors:
+    - {label: stat, symerror: '0.004'}
+    - {label: sys, symerror: '0.064'}
+    value: '1.001'
+  - errors:
+    - {label: stat, symerror: '0.0039'}
+    - {label: sys, symerror: '0.0700'}
+    value: '0.8348'
+- header: {name: '$(d^{2}\sigma / dp_{T}d\eta)$ / $(d^{2}\sigma / dp_{T}d\eta)$'}
+  qualifiers:
+  - {name: R, value: '0.3'}
+  - {name: RE, value: P PB --> JET(S) X}
+  - {name: SQRT(S)/NUCLEON, units: GEV, value: '5020.0'}
+  - {name: PT, units: GEV, value: 114 TO 133}
+  values:
+  - errors:
+    - {label: stat, symerror: '0.0028'}
+    - {label: sys, symerror: '0.0399'}
+    value: '0.5237'
+  - errors:
+    - {label: stat, symerror: '0.0044'}
+    - {label: sys, symerror: '0.0581'}
+    value: '0.7629'
+  - errors:
+    - {label: stat, symerror: '0.0050'}
+    - {label: sys, symerror: '0.0524'}
+    value: '0.9298'
+  - errors:
+    - {label: stat, symerror: '0.004'}
+    - {label: sys, symerror: '0.052'}
+    value: '1.037'
+  - errors:
+    - {label: stat, symerror: '0.0051'}
+    - {label: sys, symerror: '0.0644'}
+    value: '0.9957'
+  - errors:
+    - {label: stat, symerror: '0.0044'}
+    - {label: sys, symerror: '0.0632'}
+    value: '0.8044'
+- header: {name: '$(d^{2}\sigma / dp_{T}d\eta)$ / $(d^{2}\sigma / dp_{T}d\eta)$'}
+  qualifiers:
+  - {name: R, value: '0.3'}
+  - {name: RE, value: P PB --> JET(S) X}
+  - {name: SQRT(S)/NUCLEON, units: GEV, value: '5020.0'}
+  - {name: PT, units: GEV, value: 245 TO 272}
+  values:
+  - errors:
+    - {label: stat, symerror: '0.0149'}
+    - {label: sys, symerror: '0.0294'}
+    value: '0.3103'
+  - errors:
+    - {label: stat, symerror: '0.0259'}
+    - {label: sys, symerror: '0.0491'}
+    value: '0.6302'
+  - errors:
+    - {label: stat, symerror: '0.0330'}
+    - {label: sys, symerror: '0.0586'}
+    value: '0.9293'
+  - errors:
+    - {label: stat, symerror: '0.027'}
+    - {label: sys, symerror: '0.059'}
+    value: '1.038'
+  - errors:
+    - {label: stat, symerror: '0.03'}
+    - {label: sys, symerror: '0.07'}
+    value: '1.00'
+  - errors:
+    - {label: stat, symerror: '0.0276'}
+    - {label: sys, symerror: '0.0505'}
+    value: '0.6909'
+independent_variables:
+- header: {name: '$\eta_{CM}$'}
+  values:
+  - {high: -1.5, low: -2.0}
+  - {high: -1.0, low: -1.5}
+  - {high: -0.5, low: -1.0}
+  - {high: 0.5, low: -0.5}
+  - {high: 1.0, low: 0.5}
+  - {high: 1.5, low: 1.0}

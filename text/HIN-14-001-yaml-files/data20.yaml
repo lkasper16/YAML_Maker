@@ -1,0 +1,180 @@
+dependent_variables:
+- header: {name: RpPb(measurement)}
+  qualifiers:
+  - {name: R, value: '0.3'}
+  - {name: RE, value: 'P PB --> JET(S) X, P P --> JET(S) X'}
+  - {name: SQRT(S)/NUCLEON, units: GEV, value: '5020.0'}
+  - {name: '$\eta_{CM}$', value: -0.5 TO 0.5}
+  values:
+  - errors:
+    - {label: stat, symerror: '0.0043'}
+    - {label: sys, symerror: '0.1154'}
+    value: '1.1693'
+  - errors:
+    - {label: stat, symerror: '0.0043'}
+    - {label: sys, symerror: '0.1105'}
+    value: '1.1666'
+  - errors:
+    - {label: stat, symerror: '0.0032'}
+    - {label: sys, symerror: '0.1076'}
+    value: '1.1762'
+  - errors:
+    - {label: stat, symerror: '0.0027'}
+    - {label: sys, symerror: '0.1054'}
+    value: '1.1900'
+  - errors:
+    - {label: stat, symerror: '0.0028'}
+    - {label: sys, symerror: '0.1015'}
+    value: '1.1830'
+  - errors:
+    - {label: stat, symerror: '0.0036'}
+    - {label: sys, symerror: '0.0980'}
+    value: '1.1714'
+  - errors:
+    - {label: stat, symerror: '0.0051'}
+    - {label: sys, symerror: '0.0939'}
+    value: '1.1408'
+  - errors:
+    - {label: stat, symerror: '0.0075'}
+    - {label: sys, symerror: '0.0927'}
+    value: '1.1323'
+  - errors:
+    - {label: stat, symerror: '0.0099'}
+    - {label: sys, symerror: '0.0957'}
+    value: '1.1638'
+  - errors:
+    - {label: stat, symerror: '0.0133'}
+    - {label: sys, symerror: '0.0954'}
+    value: '1.1427'
+  - errors:
+    - {label: stat, symerror: '0.0177'}
+    - {label: sys, symerror: '0.0958'}
+    value: '1.1195'
+  - errors:
+    - {label: stat, symerror: '0.0223'}
+    - {label: sys, symerror: '0.0933'}
+    value: '1.0580'
+  - errors:
+    - {label: stat, symerror: '0.0294'}
+    - {label: sys, symerror: '0.0942'}
+    value: '1.0443'
+  - errors:
+    - {label: stat, symerror: '0.0399'}
+    - {label: sys, symerror: '0.0980'}
+    value: '1.0714'
+  - errors:
+    - {label: stat, symerror: '0.0476'}
+    - {label: sys, symerror: '0.0895'}
+    value: '0.9779'
+  - errors:
+    - {label: stat, symerror: '0.0710'}
+    - {label: sys, symerror: '0.1030'}
+    value: '1.1254'
+  - errors:
+    - {label: stat, symerror: '0.0921'}
+    - {label: sys, symerror: '0.1039'}
+    value: '1.1350'
+  - errors:
+    - {label: stat, symerror: '0.0966'}
+    - {label: sys, symerror: '0.0813'}
+    value: '0.8887'
+- header: {name: RpPb(prediction)}
+  qualifiers:
+  - {name: R, value: '0.3'}
+  - {name: RE, value: 'P PB --> JET(S) X, P P --> JET(S) X'}
+  - {name: SQRT(S)/NUCLEON, units: GEV, value: '5020.0'}
+  - {name: '$\eta_{CM}$', value: -0.5 TO 0.5}
+  values:
+  - errors:
+    - asymerror: {minus: '-0.0262', plus: '0.0294'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0265', plus: '0.0339'}
+      label: sys
+    value: '1.0600'
+  - errors:
+    - asymerror: {minus: '-0.0284', plus: '0.0357'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0305', plus: '0.0357'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0307', plus: '0.0360'}
+      label: sys
+    value: '1.0600'
+  - errors:
+    - asymerror: {minus: '-0.0294', plus: '0.0357'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0326', plus: '0.0326'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0326', plus: '0.0315'}
+      label: sys
+    value: '1.0500'
+  - errors:
+    - asymerror: {minus: '-0.0364', plus: '0.0260'}
+      label: sys
+    value: '1.0400'
+  - errors:
+    - asymerror: {minus: '-0.0309', plus: '0.0299'}
+      label: sys
+    value: '1.0300'
+  - errors:
+    - asymerror: {minus: '-0.0286', plus: '0.0306'}
+      label: sys
+    value: '1.0200'
+  - errors:
+    - asymerror: {minus: '-0.0286', plus: '0.0296'}
+      label: sys
+    value: '1.0200'
+  - errors:
+    - asymerror: {minus: '-0.0303', plus: '0.0293'}
+      label: sys
+    value: '1.0100'
+  - errors:
+    - asymerror: {minus: '-0.0320', plus: '0.0300'}
+      label: sys
+    value: '1.0000'
+  - errors:
+    - asymerror: {minus: '-0.0356', plus: '0.0327'}
+      label: sys
+    value: '0.9900'
+  - errors:
+    - asymerror: {minus: '-0.0392', plus: '0.0363'}
+      label: sys
+    value: '0.9800'
+  - errors:
+    - asymerror: {minus: '-0.0412', plus: '0.0421'}
+      label: sys
+    value: '0.9800'
+  - errors:
+    - asymerror: {minus: '-0.0466', plus: '0.0437'}
+      label: sys
+    value: '0.9700'
+independent_variables:
+- header: {name: '$p_{T}$ [GeV/c]'}
+  values:
+  - {high: 64.0, low: 56.0}
+  - {high: 74.0, low: 64.0}
+  - {high: 84.0, low: 74.0}
+  - {high: 97.0, low: 84.0}
+  - {high: 114.0, low: 97.0}
+  - {high: 133.0, low: 114.0}
+  - {high: 153.0, low: 133.0}
+  - {high: 174.0, low: 153.0}
+  - {high: 196.0, low: 174.0}
+  - {high: 220.0, low: 196.0}
+  - {high: 245.0, low: 220.0}
+  - {high: 272.0, low: 245.0}
+  - {high: 300.0, low: 272.0}
+  - {high: 330.0, low: 300.0}
+  - {high: 362.0, low: 330.0}
+  - {high: 395.0, low: 362.0}
+  - {high: 430.0, low: 395.0}
+  - {high: 468.0, low: 430.0}
