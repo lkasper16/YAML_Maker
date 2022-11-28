@@ -35,41 +35,41 @@ dependent_variables:
     - {label: sys, symerror: '0.1068'}
     value: '1.1298'
   - errors:
-    - {label: stat, symerror: '0.0105'}
-    - {label: sys, symerror: '0.1062'}
-    value: '1.1075'
+    - {label: stat, symerror: '0.011'}
+    - {label: sys, symerror: '0.106'}
+    value: '1.108'
   - errors:
-    - {label: stat, symerror: '0.0148'}
-    - {label: sys, symerror: '0.1094'}
-    value: '1.1249'
+    - {label: stat, symerror: '0.015'}
+    - {label: sys, symerror: '0.109'}
+    value: '1.125'
   - errors:
-    - {label: stat, symerror: '0.0195'}
-    - {label: sys, symerror: '0.1076'}
-    value: '1.0883'
+    - {label: stat, symerror: '0.020'}
+    - {label: sys, symerror: '0.108'}
+    value: '1.088'
   - errors:
-    - {label: stat, symerror: '0.0262'}
-    - {label: sys, symerror: '0.1098'}
-    value: '1.0950'
+    - {label: stat, symerror: '0.026'}
+    - {label: sys, symerror: '0.110'}
+    value: '1.095'
   - errors:
-    - {label: stat, symerror: '0.0353'}
-    - {label: sys, symerror: '0.1109'}
-    value: '1.0943'
+    - {label: stat, symerror: '0.035'}
+    - {label: sys, symerror: '0.111'}
+    value: '1.094'
   - errors:
-    - {label: stat, symerror: '0.0424'}
-    - {label: sys, symerror: '0.0979'}
-    value: '0.9713'
+    - {label: stat, symerror: '0.042'}
+    - {label: sys, symerror: '0.098'}
+    value: '0.971'
   - errors:
-    - {label: stat, symerror: '0.0591'}
-    - {label: sys, symerror: '0.1021'}
-    value: '1.0160'
+    - {label: stat, symerror: '0.059'}
+    - {label: sys, symerror: '0.102'}
+    value: '1.016'
   - errors:
-    - {label: stat, symerror: '0.0834'}
-    - {label: sys, symerror: '0.1114'}
-    value: '1.1082'
+    - {label: stat, symerror: '0.083'}
+    - {label: sys, symerror: '0.111'}
+    value: '1.108'
   - errors:
-    - {label: stat, symerror: '0.0994'}
-    - {label: sys, symerror: '0.0973'}
-    value: '0.9684'
+    - {label: stat, symerror: '0.099'}
+    - {label: sys, symerror: '0.097'}
+    value: '0.968'
 - header: {name: RpPb(prediction)}
   qualifiers:
   - {name: R, value: '0.3'}
@@ -78,69 +78,69 @@ dependent_variables:
   - {name: '$\eta_{CM}$', value: -1.0 TO -0.5}
   values:
   - errors:
-    - asymerror: {minus: '-0.0424', plus: '0.0360'}
+    - asymerror: {minus: '-0.042', plus: '0.036'}
       label: sys
-    value: '1.0600'
+    value: '1.060'
   - errors:
-    - asymerror: {minus: '-0.0360', plus: '0.0456'}
+    - asymerror: {minus: '-0.036', plus: '0.046'}
       label: sys
-    value: '1.0600'
+    value: '1.060'
   - errors:
-    - asymerror: {minus: '-0.0326', plus: '0.0483'}
+    - asymerror: {minus: '-0.033', plus: '0.048'}
       label: sys
-    value: '1.0500'
+    value: '1.050'
   - errors:
-    - asymerror: {minus: '-0.0367', plus: '0.0399'}
+    - asymerror: {minus: '-0.037', plus: '0.040'}
       label: sys
-    value: '1.0500'
+    value: '1.050'
   - errors:
-    - asymerror: {minus: '-0.0357', plus: '0.0347'}
+    - asymerror: {minus: '-0.036', plus: '0.035'}
       label: sys
-    value: '1.0500'
+    value: '1.050'
   - errors:
-    - asymerror: {minus: '-0.0350', plus: '0.0299'}
+    - asymerror: {minus: '-0.035', plus: '0.030'}
       label: sys
-    value: '1.0300'
+    value: '1.030'
   - errors:
-    - asymerror: {minus: '-0.0309', plus: '0.0278'}
+    - asymerror: {minus: '-0.031', plus: '0.028'}
       label: sys
-    value: '1.0300'
+    value: '1.030'
   - errors:
-    - asymerror: {minus: '-0.0273', plus: '0.0293'}
+    - asymerror: {minus: '-0.027', plus: '0.029'}
       label: sys
-    value: '1.0100'
+    value: '1.010'
   - errors:
-    - asymerror: {minus: '-0.0290', plus: '0.0300'}
+    - asymerror: {minus: '-0.029', plus: '0.030'}
       label: sys
-    value: '1.0000'
+    value: '1.000'
   - errors:
-    - asymerror: {minus: '-0.0327', plus: '0.0317'}
+    - asymerror: {minus: '-0.033', plus: '0.032'}
       label: sys
-    value: '0.9900'
+    value: '0.990'
   - errors:
-    - asymerror: {minus: '-0.0353', plus: '0.0343'}
+    - asymerror: {minus: '-0.035', plus: '0.034'}
       label: sys
-    value: '0.9800'
+    value: '0.980'
   - errors:
-    - asymerror: {minus: '-0.0412', plus: '0.0382'}
+    - asymerror: {minus: '-0.041', plus: '0.038'}
       label: sys
-    value: '0.9800'
+    value: '0.980'
   - errors:
-    - asymerror: {minus: '-0.0446', plus: '0.0427'}
+    - asymerror: {minus: '-0.045', plus: '0.043'}
       label: sys
-    value: '0.9700'
+    value: '0.970'
   - errors:
-    - asymerror: {minus: '-0.0509', plus: '0.0451'}
+    - asymerror: {minus: '-0.051', plus: '0.045'}
       label: sys
-    value: '0.9600'
+    value: '0.960'
   - errors:
-    - asymerror: {minus: '-0.0541', plus: '0.0494'}
+    - asymerror: {minus: '-0.054', plus: '0.049'}
       label: sys
-    value: '0.9500'
+    value: '0.950'
   - errors:
-    - asymerror: {minus: '-0.0592', plus: '0.0526'}
+    - asymerror: {minus: '-0.059', plus: '0.053'}
       label: sys
-    value: '0.9400'
+    value: '0.940'
 independent_variables:
 - header: {name: '$p_{T}$ [GeV/c]'}
   values:

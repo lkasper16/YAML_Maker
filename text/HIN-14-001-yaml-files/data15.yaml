@@ -34,26 +34,26 @@ dependent_variables:
     - {label: stat, symerror: '0.0084'}
     value: '0.7265'
   - errors:
-    - {label: stat, symerror: '0.0115'}
-    value: '0.7127'
+    - {label: stat, symerror: '0.012'}
+    value: '0.713'
   - errors:
-    - {label: stat, symerror: '0.0150'}
-    value: '0.6844'
+    - {label: stat, symerror: '0.015'}
+    value: '0.684'
   - errors:
-    - {label: stat, symerror: '0.0199'}
-    value: '0.6537'
+    - {label: stat, symerror: '0.020'}
+    value: '0.654'
   - errors:
-    - {label: stat, symerror: '0.0259'}
-    value: '0.6302'
+    - {label: stat, symerror: '0.026'}
+    value: '0.630'
   - errors:
-    - {label: stat, symerror: '0.0340'}
-    value: '0.6003'
+    - {label: stat, symerror: '0.034'}
+    value: '0.600'
   - errors:
-    - {label: stat, symerror: '0.0400'}
-    value: '0.5235'
+    - {label: stat, symerror: '0.040'}
+    value: '0.524'
   - errors:
-    - {label: stat, symerror: '0.0548'}
-    value: '0.5152'
+    - {label: stat, symerror: '0.055'}
+    value: '0.515'
 independent_variables:
 - header: {name: '$p_{T}$ [GeV/c]'}
   values:

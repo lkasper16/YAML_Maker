@@ -19,9 +19,9 @@ dependent_variables:
     - {label: sys, symerror: '0.0515'}
     value: '0.9376'
   - errors:
-    - {label: stat, symerror: '0.003455'}
-    - {label: sys, symerror: '0.050270'}
-    value: '1.03'
+    - {label: stat, symerror: '0.0035'}
+    - {label: sys, symerror: '0.0503'}
+    value: '1.0300'
   - errors:
     - {label: stat, symerror: '0.004'}
     - {label: sys, symerror: '0.064'}
@@ -69,17 +69,17 @@ dependent_variables:
   - {name: PT, units: GEV, value: 245 TO 272}
   values:
   - errors:
-    - {label: stat, symerror: '0.0149'}
-    - {label: sys, symerror: '0.0294'}
-    value: '0.3103'
+    - {label: stat, symerror: '0.015'}
+    - {label: sys, symerror: '0.029'}
+    value: '0.310'
   - errors:
-    - {label: stat, symerror: '0.0259'}
-    - {label: sys, symerror: '0.0491'}
-    value: '0.6302'
+    - {label: stat, symerror: '0.026'}
+    - {label: sys, symerror: '0.049'}
+    value: '0.630'
   - errors:
-    - {label: stat, symerror: '0.0330'}
-    - {label: sys, symerror: '0.0586'}
-    value: '0.9293'
+    - {label: stat, symerror: '0.033'}
+    - {label: sys, symerror: '0.059'}
+    value: '0.929'
   - errors:
     - {label: stat, symerror: '0.027'}
     - {label: sys, symerror: '0.059'}
@@ -89,9 +89,9 @@ dependent_variables:
     - {label: sys, symerror: '0.07'}
     value: '1.00'
   - errors:
-    - {label: stat, symerror: '0.0276'}
-    - {label: sys, symerror: '0.0505'}
-    value: '0.6909'
+    - {label: stat, symerror: '0.028'}
+    - {label: sys, symerror: '0.051'}
+    value: '0.691'
 independent_variables:
 - header: {name: '$\eta_{CM}$'}
   values:

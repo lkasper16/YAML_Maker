@@ -51,13 +51,13 @@ dependent_variables:
     - {label: sys, symerror: '0.0328'}
     value: '0.3739'
   - errors:
-    - {label: stat, symerror: '0.0110'}
-    - {label: sys, symerror: '0.0294'}
-    value: '0.3350'
+    - {label: stat, symerror: '0.011'}
+    - {label: sys, symerror: '0.029'}
+    value: '0.335'
   - errors:
-    - {label: stat, symerror: '0.0149'}
-    - {label: sys, symerror: '0.0272'}
-    value: '0.3103'
+    - {label: stat, symerror: '0.015'}
+    - {label: sys, symerror: '0.027'}
+    value: '0.310'
 independent_variables:
 - header: {name: '$p_{T}$ [GeV/c]'}
   values:

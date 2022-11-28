@@ -43,45 +43,45 @@ dependent_variables:
     - {label: sys, symerror: '0.0387'}
     value: '1.0450'
   - errors:
-    - {label: stat, symerror: '0.0110'}
-    - {label: sys, symerror: '0.0416'}
-    value: '1.0568'
+    - {label: stat, symerror: '0.011'}
+    - {label: sys, symerror: '0.042'}
+    value: '1.057'
   - errors:
-    - {label: stat, symerror: '0.0151'}
-    - {label: sys, symerror: '0.0446'}
-    value: '1.0568'
+    - {label: stat, symerror: '0.015'}
+    - {label: sys, symerror: '0.045'}
+    value: '1.057'
   - errors:
-    - {label: stat, symerror: '0.0206'}
-    - {label: sys, symerror: '0.0473'}
-    value: '1.0621'
+    - {label: stat, symerror: '0.021'}
+    - {label: sys, symerror: '0.047'}
+    value: '1.062'
   - errors:
-    - {label: stat, symerror: '0.0269'}
-    - {label: sys, symerror: '0.0462'}
-    value: '1.0382'
+    - {label: stat, symerror: '0.027'}
+    - {label: sys, symerror: '0.046'}
+    value: '1.038'
   - errors:
-    - {label: stat, symerror: '0.0356'}
-    - {label: sys, symerror: '0.0458'}
-    value: '1.0289'
+    - {label: stat, symerror: '0.036'}
+    - {label: sys, symerror: '0.046'}
+    value: '1.029'
   - errors:
-    - {label: stat, symerror: '0.0482'}
-    - {label: sys, symerror: '0.0468'}
-    value: '1.0527'
+    - {label: stat, symerror: '0.048'}
+    - {label: sys, symerror: '0.047'}
+    value: '1.053'
   - errors:
-    - {label: stat, symerror: '0.0628'}
-    - {label: sys, symerror: '0.0465'}
-    value: '1.0444'
+    - {label: stat, symerror: '0.063'}
+    - {label: sys, symerror: '0.047'}
+    value: '1.044'
   - errors:
-    - {label: stat, symerror: '0.0914'}
-    - {label: sys, symerror: '0.0518'}
-    value: '1.1649'
+    - {label: stat, symerror: '0.091'}
+    - {label: sys, symerror: '0.052'}
+    value: '1.165'
   - errors:
-    - {label: stat, symerror: '0.1197'}
-    - {label: sys, symerror: '0.0527'}
-    value: '1.1852'
+    - {label: stat, symerror: '0.120'}
+    - {label: sys, symerror: '0.053'}
+    value: '1.185'
   - errors:
-    - {label: stat, symerror: '0.1329'}
-    - {label: sys, symerror: '0.0441'}
-    value: '0.9906'
+    - {label: stat, symerror: '0.133'}
+    - {label: sys, symerror: '0.044'}
+    value: '0.991'
 independent_variables:
 - header: {name: '$p_{T}$ [GeV/c]'}
   values:

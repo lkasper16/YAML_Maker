@@ -7,57 +7,57 @@ dependent_variables:
   - {name: $\lvert\eta\rvert$, value: 1.0 TO 1.5}
   values:
   - errors:
-    - {label: stat, symerror: '0.0164e-05'}
-    - {label: sys, symerror: '0.2112e-05'}
-    value: '2.5780e-05'
+    - {label: stat, symerror: '0.016e-05'}
+    - {label: sys, symerror: '0.211e-05'}
+    value: '2.578e-05'
   - errors:
-    - {label: stat, symerror: '0.0110e-05'}
-    - {label: sys, symerror: '0.1074e-05'}
-    value: '1.2934e-05'
+    - {label: stat, symerror: '0.011e-05'}
+    - {label: sys, symerror: '0.107e-05'}
+    value: '1.293e-05'
   - errors:
-    - {label: stat, symerror: '0.0795e-06'}
-    - {label: sys, symerror: '0.5571e-06'}
-    value: '6.6144e-06'
+    - {label: stat, symerror: '0.080e-06'}
+    - {label: sys, symerror: '0.557e-06'}
+    value: '6.614e-06'
   - errors:
-    - {label: stat, symerror: '0.0484e-06'}
-    - {label: sys, symerror: '0.2928e-06'}
-    value: '3.4193e-06'
+    - {label: stat, symerror: '0.048e-06'}
+    - {label: sys, symerror: '0.293e-06'}
+    value: '3.419e-06'
   - errors:
     - {label: stat, symerror: '0.0077e-06'}
     - {label: sys, symerror: '0.1360e-06'}
     value: '1.5573e-06'
   - errors:
-    - {label: stat, symerror: '0.0466e-07'}
-    - {label: sys, symerror: '0.5880e-07'}
-    value: '6.5899e-07'
+    - {label: stat, symerror: '0.047e-07'}
+    - {label: sys, symerror: '0.588e-07'}
+    value: '6.590e-07'
   - errors:
-    - {label: stat, symerror: '0.0261e-07'}
-    - {label: sys, symerror: '0.2585e-07'}
-    value: '2.8396e-07'
+    - {label: stat, symerror: '0.026e-07'}
+    - {label: sys, symerror: '0.259e-07'}
+    value: '2.840e-07'
   - errors:
-    - {label: stat, symerror: '0.0158e-07'}
-    - {label: sys, symerror: '0.1225e-07'}
-    value: '1.3181e-07'
+    - {label: stat, symerror: '0.016e-07'}
+    - {label: sys, symerror: '0.123e-07'}
+    value: '1.318e-07'
   - errors:
-    - {label: stat, symerror: '0.0304e-08'}
-    - {label: sys, symerror: '0.5803e-08'}
-    value: '6.1329e-08'
+    - {label: stat, symerror: '0.030e-08'}
+    - {label: sys, symerror: '0.580e-08'}
+    value: '6.133e-08'
   - errors:
-    - {label: stat, symerror: '0.0195e-08'}
-    - {label: sys, symerror: '0.2955e-08'}
-    value: '3.0713e-08'
+    - {label: stat, symerror: '0.020e-08'}
+    - {label: sys, symerror: '0.296e-08'}
+    value: '3.071e-08'
   - errors:
-    - {label: stat, symerror: '0.0121e-08'}
-    - {label: sys, symerror: '0.1526e-08'}
-    value: '1.5614e-08'
+    - {label: stat, symerror: '0.012e-08'}
+    - {label: sys, symerror: '0.153e-08'}
+    value: '1.561e-08'
   - errors:
-    - {label: stat, symerror: '0.0791e-09'}
-    - {label: sys, symerror: '0.7912e-09'}
-    value: '7.9907e-09'
+    - {label: stat, symerror: '0.079e-09'}
+    - {label: sys, symerror: '0.791e-09'}
+    value: '7.991e-09'
   - errors:
-    - {label: stat, symerror: '0.0502e-09'}
-    - {label: sys, symerror: '0.3948e-09'}
-    value: '3.9473e-09'
+    - {label: stat, symerror: '0.050e-09'}
+    - {label: sys, symerror: '0.395e-09'}
+    value: '3.947e-09'
   - errors:
     - {label: stat, symerror: '0.0088e-09'}
     - {label: sys, symerror: '0.2077e-09'}
@@ -67,9 +67,9 @@ dependent_variables:
     - {label: sys, symerror: '0.1114e-09'}
     value: '1.1091e-09'
   - errors:
-    - {label: stat, symerror: '0.0202e-10'}
-    - {label: sys, symerror: '0.5733e-10'}
-    value: '5.7098e-10'
+    - {label: stat, symerror: '0.020e-10'}
+    - {label: sys, symerror: '0.573e-10'}
+    value: '5.710e-10'
 independent_variables:
 - header: {name: '$p_{T}$ [GeV/c]'}
   values:
